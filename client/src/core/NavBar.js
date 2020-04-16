@@ -17,6 +17,7 @@ const NavBar = () => {
         <li><Link to="/contacts"><i className="bx bx-envelope"></i>Contact</Link></li>
       </ul> */}
     </nav>
+    
   )
 }
 

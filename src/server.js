@@ -24,6 +24,7 @@ const app = express();
 app.use(express.static(path.join(__dirname, '..', 'client/build')));
 app.use(bodyParser.json());
 
+// const uri = "mongodb+srv://bbayo:Seygal%40q15b@cluster0-gkxuc.mongodb.net/test?retryWrites=true&w=majority"
 // function take care all of the setup and tear down of our DB
 const withDB = async (operations, res) => {
   try{

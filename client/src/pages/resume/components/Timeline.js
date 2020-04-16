@@ -12,7 +12,7 @@ const Timeline = () => {
           <li>Developed UI that enable business entities to streamline supplier onboarding approval and follow up process </li>
           <li>Developed UI easy-to-use responsive design, accessible through all devices.</li>
           <li>Applying semantics to content and improve user experience</li>
-          <li>Build abstract re-useuable UI components and styles efficiently.</li>
+          <li>Build abstract reusable UI components and styles efficiently.</li>
           <li>Utilizes modern web development design patterns.</li>
           <li>Mutating/changing data through user interaction and input and back to the servers through APIs (data-driven)</li>
           <li>Working with Agile team members and stakeholders to ensure relative estimation and deliveries</li>
@@ -67,7 +67,7 @@ const Timeline = () => {
           <li>Developed UI that enable business entities to streamline supplier onboarding approval and follow up process </li>
           <li>Developed UI easy-to-use responsive design, accessible through all devices.</li>
           <li>Applying semantics to content and improve user experience</li>
-          <li>Build abstract re-useuable UI components and styles efficiently.</li>
+          <li>Build abstract reusable UI components and styles efficiently.</li>
           <li>Utilizes modern web development design patterns.</li>
           <li>Mutating/changing data through user interaction and input and back to the servers through APIs (data-driven)</li>
           <li>Working with Agile team members and stakeholders to ensure relative estimation and deliveries</li>
@@ -89,10 +89,14 @@ const Timeline = () => {
         <h5>Aug 2015 – Feb 2016</h5>
         <p><em>680 Folsom Street, San Francisco CA</em></p>
         <ul>
-          <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-          <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-          <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-          <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+          <li>Turn mock-ups and designs into full pages complete with CSS, HTML, JavaScript and JQuery.</li>
+          <li>Creating a user-friendly SEO Content Hub that includes Cyber Monday Deals and plus size fashion guide to the Customer. Making sure that this experience is both flexible and SEO relevant.</li>
+          <li>Developed Homepages, Sitelets, Programmed imports (static pages w/ a left hand nav), Expandable banners and static pages</li>
+          <li>Involves in establishing the Creative Release deployment workflow and worked closely with Project manager and Producers to understand the technical requirements of the projects</li>
+          <li>Worked closely with Quality Engineers on a business-as-usual basis, so there will be no impact to marketing dates, current Creative Release workflow, VersionOne management, etc.</li>
+          <li>Ability to rapidly prototype interface designs in hand-coded validating, standards-compliant, and semantically rich code and be aware of cross-browser compatibility and bugs.</li>
+          <li>Created a business rule processing engine by embedding the HTML in a J2EE server (Astra CMS), for ease of deployment using right workflow.</li>
+          <li>Developed data formatted web applications and deploy the script using client side scripting using JavaScript.</li>
         </ul>
         <span className="badge badge-pill badge-info">Html</span>
         <span className="badge badge-pill badge-info">Css</span>

@@ -7,7 +7,7 @@ const Overview = () => {
         <div className="section-title">
           <h2>Software Engineer - Frontend (UI)</h2>
           <p>Enthusiastic, devoted and experienced Frontend Engineer, here to build a responsive 
-            websites and/or web-application to include interactive features, esthetically pleasing 
+            website and/or web-application to include interactive features, esthetically pleasing 
             with a Rich User Interface that drives business growth with superior functionalities.</p>
         </div>
         <div className="row">
@@ -39,10 +39,12 @@ const Overview = () => {
             </div>
             <div>
               <ul>
-                <li><i className="icofont-ui-pointer"></i>Experience building and refactoring large scale customer facing web applications.</li>
-                <li><i className="icofont-ui-pointer"></i>Sound experience in developing software using HTML, CSS, modern JavaScript development techniques (ES6) and frameworks such as Angular, React and Vue.</li>
+                <li><i className="icofont-ui-pointer"></i>Experience in Software development life cycle and methodologies(SDLC).</li>
+                <li><i className="icofont-ui-pointer"></i>Experience in developing, building and refactoring large scale software using HTML, CSS, modern JavaScript development techniques (ES6) and frameworks such as Angular, React and Vue.</li>
                 <li><i className="icofont-ui-pointer"></i>Strong understanding of good visual design by considering the accessibility and performance of the software.</li>
-                <li><i className="icofont-ui-pointer"></i>Solid coding practices including peer code reviews, unit testing, and a fan for agile development.</li>
+                <li><i className="icofont-ui-pointer"></i>excellent experience working in an Agile development environment.</li>
+                <li><i className="icofont-ui-pointer"></i>Strong communication, analytical and interpersonal skills working within cross-functional teams.</li>
+                <li><i className="icofont-ui-pointer"></i>Excellent problem solving skills and the ability to work independently.</li>
               </ul>
             </div>
           </div>

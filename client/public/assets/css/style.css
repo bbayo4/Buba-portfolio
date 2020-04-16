@@ -188,7 +188,11 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
   text-align: right;
 }
-
+@media (max-width: 768px) {
+  .mobile-nav-toggle{
+    right: -10px;
+  }
+}
 .mobile-nav-toggle i {
   color: #149ddd;
 }
